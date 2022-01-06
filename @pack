@@ -1,0 +1,32 @@
+/* rexx */                                           
+/* Rexx fuction to pack(comp-3) a number */          
+/* Input  ==> 1. number to be packed */              
+/*            2. Length of the packed number */      
+/* Output ==> 3 */                                   
+trace o                                              
+/* @pack: */                                         
+      parse arg numb, leng                           
+                                                     
+      /* sign for packed number */                   
+      sign = left(numb, 1)                           
+      if sign = '-' then do                          
+        sign = "D"                                   
+        numb = substr(numb, 2) /* remove the sign */ 
+      end                                            
+      else,                                          
+      if sign = '+' then do                          
+        sign = "C"                                   
+        numb = substr(numb, 2) /* remove the sign */
+      end                                           
+      else,                                         
+        sign = "C"                                  
+                                                    
+      size = leng*2 - 1                             
+      temp = right(numb, size, "0") || sign         
+      pack = x2c(temp)                              
+                                                    
+/*    say size                                      
+      say temp                                      
+      say pack  */                                  
+                                                    
+      return pack   
