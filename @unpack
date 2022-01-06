@@ -1,0 +1,26 @@
+/* rexx */                                             
+/* Rexx function to unpack a packed (decimal) number */
+/* Input  ==> Packed number                    */      
+/* Output ==> Unpacked number                  */      
+trace o                                                
+/* @unpack: */                                         
+    parse arg pack                                     
+                                                       
+    /* convert packed data to hex and split */         
+    char = c2x(pack)                                   
+    numb = left(char, length(char)-1)                  
+    sign1 = right(char, 1 )                            
+                                                       
+    /* Check sign and numeric sections */              
+    if  verify(sign1, "ABCDEF" ) > 0 then ,            
+        return ""                                      
+    if  verify( numb, "0123456789" ) > 0 then ,        
+        return ""                                      
+                                              
+    /* Check negative sign */                 
+    if  pos(sign1, "BD" ) > 0 then,           
+        return -numb                          
+    else,                                     
+    return  numb                              
+                                              
+    /* Convert packed data to hex and split */
