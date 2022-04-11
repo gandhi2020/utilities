@@ -1,2 +1,19 @@
 # utilities
 Utilities written in rexx scripting language
+
+36b9tf1D_v9OJrvmq0HszTlmhQUR0j6rF6_q5mds9PKgBSDEny-9ISL-eNxN0gWL.aGasHte4R4oAcI-8
+hVA.f0uk
+2tPb77_xbdQUZmjaFJ9fYhb0iecnDPBzZ0xQv0wJ5WHHY247YudBwfqMScjaCphl.yndwRjl05eskivx1
+JE?m06rQ
+hkalsu3oMUzB4BGbKty0QCgFoOMIe9RD0p_1b6icwvMboE2WKScfiALy4BvLKgdg.bCNlAE1Dq8NZiJvH
+=?wJ?3TW
+BwSKiidE38M48uUBWiyrlvSTtpATX-CwXPRQZfPujZLeIZw50JA5yBWWI0k2fcJM.NU4pXDAfjzy3NhtM
+WQXh8sQ.
+QWNVScUz3mxuopIAWx-n52s_do7F4a3lYUVStvcXO7R4b4D1j3GMzyCOTMpQGnsI.3NDf_wPRk-OvzcVn
+j9D5&7^O
+nJaXJfSlByj0nGaB4-w8iBuGsoWMmwI3mfJJSNeIS_3ZoG5lbIW49fQyhEu-1sev.1r97cH6vhiwVpNFu
+2o0s?02L
+9iJbtVtJB6eDo-Mk2d8k91q6ILxC2q59XkWxfewMdXNWWJz_YPcOYCCXI_E9NEZM.NkxoxebdNtMkYvoV
+^A5+d0v+
+KMqen63EyqXpXMaxpBOcL8_xHLhnO829AEkYNP55pztM5v7z3A16ObXmY1FIYmtt.eJC1y2Ygn_RfHVF2
+i4uG!2c+
